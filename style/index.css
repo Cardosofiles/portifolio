@@ -241,10 +241,10 @@ section {
   background: transparent;
   transition: 3s;
 }
-/* .home-imgHover:hover {
+.home-imgHover:hover {
   background: var(--bg-color);
   opacity: 0.8;
-} */
+}
 .about {
   display: flex;
   justify-content: center;
@@ -670,9 +670,9 @@ section:nth-child(odd) .animate.scroll,
     width: 100%;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 400px) {
   .header {
-    background: transparent;
+    background: var(--bg-color);
   }
   #menu-icon {
     display: block;
