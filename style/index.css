@@ -241,10 +241,10 @@ section {
   background: transparent;
   transition: 3s;
 }
-.home-imgHover:hover {
+/* .home-imgHover:hover {
   background: var(--bg-color);
   opacity: 0.8;
-}
+} */
 .about {
   display: flex;
   justify-content: center;
