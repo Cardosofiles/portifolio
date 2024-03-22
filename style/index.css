@@ -478,7 +478,7 @@ span {
   max-width: 100%;
 }
 .skills-column:nth-child(2) .skills-content .progress:nth-child(1) .bar span {
-  width: 55%;
+  width: 27%;
   max-width: 100%;
 }
 .skills-column:nth-child(2) .skills-content .progress:nth-child(2) .bar span {
@@ -486,7 +486,7 @@ span {
   max-width: 100%;
 }
 .skills-column:nth-child(2) .skills-content .progress:nth-child(3) .bar span {
-  width: 30%;
+  width: 20%;
   max-width: 100%;
 }
 .skills-column:nth-child(2) .skills-content .progress:nth-child(4) .bar span {
