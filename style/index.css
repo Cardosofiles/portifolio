@@ -232,7 +232,7 @@ section {
 .home-sci a:hover::before {
   width: 100%;
 }
-.home-imgHover {
+/* .home-imgHover {
   position: absolute;
   top: 0;
   right: 0;
@@ -244,7 +244,7 @@ section {
 .home-imgHover:hover {
   background: var(--bg-color);
   opacity: 0.8;
-}
+} */
 .about {
   display: flex;
   justify-content: center;
@@ -670,7 +670,7 @@ section:nth-child(odd) .animate.scroll,
     width: 100%;
   }
 }
-@media (max-width: 400px) {
+@media (max-width: 768px) {
   .header {
     background: var(--bg-color);
   }
