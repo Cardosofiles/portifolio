@@ -84,7 +84,7 @@ section {
   display: flex;
   align-items: center;
   padding: 0 9%;
-  background: url(../img/1711834.gif) no-repeat;
+  background: url(/img/1711834.gif) no-repeat;
   background-size: cover;
   background-position: center;
 }
