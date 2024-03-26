@@ -293,6 +293,7 @@ span {
 }
 .about-content {
   text-align: center;
+  max-width: 800px;
 }
 .about-content h3 {
   position: relative;
