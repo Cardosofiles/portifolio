@@ -13,3 +13,7 @@ function calculator() {
 function memoryGame() {
   window.open("/pages/memoryGame/login.HTML");
 }
+
+function stopwatch() {
+  window.open("/pages/stopwatch/index.HTML");
+}
